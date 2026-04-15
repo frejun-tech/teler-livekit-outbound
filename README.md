@@ -8,6 +8,12 @@ Simple plug-and-play outbound calling using:
 
 ---
 
+## What is Teler?
+
+Teler is a programmable voice API by FreJun. It handles carriers, phone numbers, and real-time audio streaming so you can connect AI models directly to phone calls. → [frejun.ai](https://frejun.ai)
+
+---
+
 ## Prerequisites
 
 Before running:
