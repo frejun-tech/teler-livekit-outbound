@@ -1,4 +1,4 @@
-# LiveKit Outbound Calling (Frejun-Teler SIP)
+# LiveKit Outbound Calling (FreJun-Teler SIP)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) [![Teler Docs](https://img.shields.io/badge/Teler-Docs-0A66C2)](https://frejun.com/docs/teler/)
 
